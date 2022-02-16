@@ -1,0 +1,2 @@
+Part 1 and 2 were the same, but if you started out by using a list containing
+each fish's timer, you would time out. 
